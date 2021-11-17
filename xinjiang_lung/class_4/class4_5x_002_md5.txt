@@ -1,0 +1,3 @@
+93826326735cc93bef65ec76e6f4a64b  /mnt/data_temp/dulicui/project/github/Deployed_Model_MD5/xinjiang_lung/class_4/model.ckpt-1572.data-00000-of-00001
+b3b6cee3aef305086f09e2dd337be945  /mnt/data_temp/dulicui/project/github/Deployed_Model_MD5/xinjiang_lung/class_4/model.ckpt-1572.index
+c6a8b44ff1349d03a34c804669317241  /mnt/data_temp/dulicui/project/github/Deployed_Model_MD5/xinjiang_lung/class_4/model.ckpt-1572.meta
